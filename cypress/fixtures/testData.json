@@ -1,0 +1,25 @@
+{
+    "username" : 
+    {
+    "firstname" : "Ahmed",
+    "lastname" : "mohamed",
+    "wrongusername": "Ahmed",
+    "validname": "Ahmed55"
+    }
+    ,
+    "address" : "55 rostom",
+    "city" : "cairo",
+    "ssn" : "12345",
+    "state" : "maadi",
+    "passwords": "123",
+    "wrongpassword":"123123123",
+    "zipcode":"1234",
+    "phonenumber":"010123",
+
+    "loan" :
+    {
+    "loanvalue" : "2000",
+    "loandeposite" : "200"
+    }
+
+}
